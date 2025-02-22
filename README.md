@@ -27,8 +27,8 @@ La aplicación permite:
 
 1. Clona el repositorio desde GitHub:
 ```bash
-git clone https://github.com/tuusuario/nombre-del-repositorio.git
-cd nombre-del-repositorio
+git clone https://github.com/Midan14/Guia1_Actividad3_Gesti-n_Gesti-n_Parqueadero.git
+cd Guia1_Actividad3_Gesti-n_Gesti-n_Parqueadero
 ```
 
 1. Asegúrate de tener **Java 11** (o superior) y **Gradle** instalados.
